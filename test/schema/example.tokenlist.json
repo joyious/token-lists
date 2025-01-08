@@ -19,11 +19,11 @@
   "timestamp": "2020-06-12T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "symbol": "USDC",
-      "name": "USD Coin",
-      "decimals": 6,
+      "chainId": 11155111,
+      "address": "0x216cE14DdbA7E4C42f7a7B9411ba4D9b3C41b060",
+      "symbol": "INT",
+      "name": "Intenet",
+      "decimals": 18,
       "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": [
         "stablecoin"
@@ -42,12 +42,12 @@
     }
   ],
   "tokenMap": {
-    "1_0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
-      "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "symbol": "USDC",
-      "name": "USD Coin",
-      "decimals": 6,
+    "11155111_0x216cE14DdbA7E4C42f7a7B9411ba4D9b3C41b060": {
+      "chainId": 11155111,
+      "address": "0x216cE14DdbA7E4C42f7a7B9411ba4D9b3C41b060",
+      "symbol": "INT",
+      "name": "Intenet",
+      "decimals": 18,
       "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": [
         "stablecoin"
